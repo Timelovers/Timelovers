@@ -14,3 +14,9 @@
 - 👯 维护了一个公众号：
 - 📫 你可以通过微信搜XXXX【目前占停】联系我
 - ⚡ 希望我写下的东西能帮助到你
+- 
+- Read my [Blog](https://atong.run) to learn more about me
+- Talk with me by [Email](mailto:atongrun@outlook.com) or [Telegram](https://t.me/atongrun)
+- Follow me on [Twitter](https://twitter.com/atongrun) [bilibili](https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0) [zhihu](https://www.zhihu.com/people/qian-lan-wa) or [WeChat Official Accounts](https://open.weixin.qq.com/qr/code?username=gh_0775e1b16e93)
+
+[![atongrun's GitHub stats](https://github-immortality.vercel.app/api?username=atongrun)](https://atong.run)

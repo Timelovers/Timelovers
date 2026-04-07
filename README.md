@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Sara%20Alice&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sara%20Alice&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35" alt="header" />
 </p>
 
 > 写代码不是我的工作，是我理解这个世界的方式。五年来，从第一行 `print("hello")` 到构建 AI Agent 系统，我一直在用代码把好奇心变成可运行的东西。
@@ -56,12 +56,6 @@ AI Engineering ──→ 产品化落地 ──→ Web 全栈表达
 - 💡 技术博客与 AI 实践笔记（建设中）
 - 🔍 持续探索 AI + Web 的交叉地带
 - 🎯 把踩过的坑变成别人能走的路
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Timelovers&show_icons=true&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&hide_title=true&hide_border=true&theme=radical" height="170" alt="stats" />
-</p>
 
 ---
 

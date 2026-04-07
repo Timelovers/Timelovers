@@ -25,7 +25,8 @@
 </td>
 <td width="50%" valign="top">
 
-**🛠️ 开发者工具**
+**🎮 创意项目**
+- **PunchBeat** — 用 Mannerus 构建的拳击游戏，[在线体验](https://punchbeat-3igmmbsf.manus.space) 🥊(https://punchbeat-3igmmbsf.manus.space)
 - **oh-my-claudecode** — Claude Code 多智能体编排框架，团队级 AI 协作
 - **Bookmark Visualizer** — 把浏览器书签变成复古终端风格的可视化导航（Claude Agent Skill）
 - **go-cursor-help** — 开发者实用工具，解决 Cursor 免费使用限制

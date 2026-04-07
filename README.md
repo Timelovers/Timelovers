@@ -63,6 +63,12 @@ AI Engineering ──→ 产品化落地 ──→ Web 全栈表达
   <img src="https://github-readme-stats.vercel.app/api?username=Timelovers&show_icons=true&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&hide_title=true&hide_border=true&theme=tokyonight" alt="stats" />
 </p>
 
+---
+
 <p align="center">
-  <sub>"值得去的地方，没有捷径。"</sub>
+  <i>"值得去的地方，没有捷径。了解自己，认识世界。<br/>把一些从未有过的故事带到这个世界。"</i>
+</p>
+
+<p align="center">
+  <sub>写代码不是我的工作，是我理解这个世界的方式。</sub>
 </p>

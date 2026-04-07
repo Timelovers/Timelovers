@@ -60,7 +60,7 @@ AI Engineering ──→ 产品化落地 ──→ Web 全栈表达
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Timelovers&show_icons=true&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&hide_title=true&hide_border=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Timelovers&show_icons=true&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&hide_title=true&hide_border=true&theme=radical" height="170" alt="stats" />
 </p>
 
 ---

@@ -1,69 +1,260 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sara%20Alice&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35" alt="header" />
-</p>
+<!-- Profile README → repo: github.com/Timelovers/Timelovers (same name as username) -->
+<!-- Not Timelovers.github.io — that repo powers Pages only -->
 
-> 写代码不是我的工作，是我理解这个世界的方式。五年来，从第一行 `print("hello")` 到构建 AI Agent 系统，我一直在用代码把好奇心变成可运行的东西。
+<div align="center">
 
-<p align="center">
-  <b>AI 应用工程师</b> · 用代码连接想法与现实
-</p>
+# Sara Alice · Timelovers
 
----
+### *Building tools that think.*
 
-### 🔥 我在做什么
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[English](#english)** · **[中文](#中文)**
 
-**🤖 AI 工程实践**
-- **AI Career Coaching Navigator** — 对话式 AI 导师，帮技术人梳理项目、对齐 JD、打磨面试叙事
-- **LLM Council** — 多模型协作问答，让不同 LLM 开会解决难题
-- **Agency Agents** — 193 个即插即用 AI 专家角色，覆盖工程/设计/营销等 18 个领域
-- **PromptVault** — 我的个人提示词库，持续迭代中
+<br/>
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-**🎮 创意项目**
-- **PunchBeat** — 用 Mannerus 构建的拳击游戏，[在线体验](https://punchbeat-3igmmbsf.manus.space) 🥊(https://punchbeat-3igmmbsf.manus.space)
-- **oh-my-claudecode** — Claude Code 多智能体编排框架，团队级 AI 协作
-- **Bookmark Visualizer** — 把浏览器书签变成复古终端风格的可视化导航（Claude Agent Skill）
-- **go-cursor-help** — 开发者实用工具，解决 Cursor 免费使用限制
-
-</td>
-</tr>
-</table>
-
----
-
-### 🧭 我的方向
+<div align="center">
 
 ```
-AI Engineering ──→ 产品化落地 ──→ Web 全栈表达
+    ✦  ┌─────────────────────────────────────┐  ♡
+       │   AI App Engineer · Agent Builder   │
+       │        (shanghai · remote OK)        │
+       └──────────────┬──────────────────────┘
+                      │
+              ╭───────┴───────╮   ☆ 随手记的注释体
+              ▼               ▼      「先让它跑得优雅」
+         ┌─────────┐    ┌─────────┐
+         │ Skills  │    │ Prompt  │
+         │ graph   │───▶│ Vault   │
+         └─────────┘    └────┬────┘
+                             │
+              ···············┘ 虚线 = 还没写完的下一章
 ```
 
-我不只是在用 AI，我在思考 **AI 应该怎么被构建、被使用、被传播**。
-目前专注：
+</div>
 
-- 🧠 **AI Agent 系统** — 多智能体协作、工作流编排、工具调用
-- 🌐 **Web 全栈** — 让 AI 能力以最好的形态触达用户
-- 📐 **工程化思维** — 把灵感变成可维护、可扩展的系统
+<br/>
 
 ---
 
-### 📊 也在持续输出
+<br/>
 
-- 💡 技术博客与 AI 实践笔记（建设中）
-- 🔍 持续探索 AI + Web 的交叉地带
-- 🎯 把踩过的坑变成别人能走的路
+<h2 id="english">English</h2>
+
+<br/>
+
+### Ⅰ · Setup — who I am
+
+**Role:** AI application engineer · builder of agent-shaped products.
+
+**Mission:** Ship tools people *actually* open twice — not demos that die in a tab.
+
+**Open loop:** The hard part isn’t “calling an LLM”.  
+It’s **trust**: routing tools, structuring memory, and keeping UX honest when models drift.
+
+**Ping me:**  
+✉️ **2822937768@qq.com** · **Portfolio → [lijiaxing.com.cn](https://lijiaxing.com.cn/)**
+
+<br/>
 
 ---
 
-<p align="center">
-  <i>"值得去的地方，没有捷径。了解自己，认识世界。<br/>把一些从未有过的故事带到这个世界。"</i>
-</p>
+<br/>
 
-<p align="center">
-  <sub>写代码不是我的工作，是我理解这个世界的方式。</sub>
-</p>
+### Ⅱ · Rising action — what ships today
+
+```
+     PromptVault                        Claude Skills
+        │                                     │
+        │  local-first                       │  reusable packs
+        ▼                                     ▼
+   ┌──────────┐    ★ highlight          ┌──────────┐
+   │ draft 💭 │ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─│ shipped ⚙│
+   └──────────┘                        └──────────┘
+        │                                     │
+        └──────────────┬──────────────────────┘
+                       ▼
+              Career · bookmarks · research
+              (agents that earn screen time)
+```
+
+| Focus | One-liner |
+|:---|:---|
+| **AI Career Coaching** | JD-aligned stories & interview rehearsal |
+| **PromptVault** | Personal prompt library — versions that survive daylight |
+| **Skills / MCP** | Interview answers · company research · bookmark viz · more |
+| **Purple Portfolio** | The site that holds this narrative |
+
+<br/>
+
+**Continue exploring →**  
+💜 **[Purple Portfolio Shine](https://github.com/Timelovers/purple-portfolio-shine-main)** · **[PromptVault live](https://timelovers.github.io/promptvault/)**
+
+<br/>
+
+---
+
+<br/>
+
+### Ⅲ · Turning point — the tension
+
+Six years ago: WeChat mini-programs & NLP rabbit holes.  
+Today: multi-agent workflows & **engineering prompts**, not guessing them.
+
+**The cliffhanger:**  
+What does “good taste” in AI products look like when everyone ships the same wrapper?  
+I’m stress-testing that answer — **one repo at a time**.
+
+<br/>
+
+---
+
+<br/>
+
+### Ⅳ · Resolution — stack & rhythm
+
+```
+Languages     TypeScript · Python · JavaScript · HTML/CSS
+AI / Agents   Claude · LangChain · AutoGen · MCP · Claude Code
+Past lives    Mini-programs · Django · Vue · NLP · deep learning
+Now           Skills-first workflows · shipping small · iterating weekly
+```
+
+<br/>
+
+---
+
+<br/>
+
+### Ⅴ · Find me — stay in the loop
+
+| Where | Link |
+|:---|:---|
+| **Portfolio** | **[lijiaxing.com.cn](https://lijiaxing.com.cn/)** |
+| **GitHub** | **[github.com/Timelovers](https://github.com/Timelovers)** |
+| **X** | **[@cloudbit441506](https://x.com/cloudbit441506)** |
+| **PromptVault** | **[timelovers.github.io/promptvault](https://timelovers.github.io/promptvault/)** |
+
+<br/>
+
+---
+
+<br/>
+
+<h2 id="中文">中文</h2>
+
+<br/>
+
+### Ⅰ · 开局 — 我是谁
+
+**定位：** AI 应用工程师 · 把 Agent  
+做成「明天还会打开第二次」的产品。
+
+**执念：** 模型不难调用，难的是  
+**可信**：工具路由、记忆结构、  
+漂移时的交互诚实。
+
+**联系我：**  
+✉️ **2822937768@qq.com** ·  
+作品 **[lijiaxing.com.cn](https://lijiaxing.com.cn/)**
+
+<br/>
+
+---
+
+<br/>
+
+### Ⅱ · 铺陈 — 当下在交付什么
+
+```
+     PromptVault                        Claude Skills
+        │                                     │
+        │  本地优先                           │  可复用技能包
+        ▼                                     ▼
+   ┌──────────┐    ★ 亮点               ┌──────────┐
+   │ 草稿 💭  │ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │ 上线 ⚙   │
+   └──────────┘                        └──────────┘
+        │                                     │
+        └──────────────┬──────────────────────┘
+                       ▼
+              职业叙事 · 书签 · 调研 …
+              （值得占屏幕时间的 Agent）
+```
+
+| 方向 | 一句话 |
+|:---|:---|
+| **AI 职业教练** | 对齐 JD、打磨叙事、模拟面试 |
+| **PromptVault** | 个人提示词库，版本经得起 daylight |
+| **Skills / MCP** | 面试答题 · 公司调研 · 书签可视化 … |
+| **紫色作品集** | 承载这条叙事线的站点本体 |
+
+<br/>
+
+**接着逛 →**  
+💜 **[Purple Portfolio Shine](https://github.com/Timelovers/purple-portfolio-shine-main)** · **[PromptVault 在线](https://timelovers.github.io/promptvault/)**
+
+<br/>
+
+---
+
+<br/>
+
+### Ⅲ · 转折 — 张力在哪
+
+六年前：微信小程序与 NLP 兔子洞。  
+今天：多智能体工作流 ·  
+把 prompt **工程化**，不靠赌运气。
+
+**悬念：**  
+当外壳趋同时，  
+「好品味」的 AI 产品长什么样？  
+我在用一个个仓库 **压力测试**  
+这个答案。
+
+<br/>
+
+---
+
+<br/>
+
+### Ⅳ · 收束 — 栈与节奏
+
+```
+主力语言     TypeScript · Python · JavaScript · HTML/CSS
+AI / Agent   Claude · LangChain · AutoGen · MCP · Claude Code
+前世今生     小程序 · Django · Vue · NLP · 深度学习
+现在         Skills 优先 · 小步交付 · 周更迭代
+```
+
+<br/>
+
+---
+
+<br/>
+
+### Ⅴ · 找到我 — 保持连接
+
+| 入口 | 链接 |
+|:---|:---|
+| **作品集** | **[lijiaxing.com.cn](https://lijiaxing.com.cn/)** |
+| **GitHub** | **[github.com/Timelovers](https://github.com/Timelovers)** |
+| **X** | **[@cloudbit441506](https://x.com/cloudbit441506)** |
+| **PromptVault** | **[timelovers.github.io/promptvault](https://timelovers.github.io/promptvault/)** |
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+Made with 💜 by **Sara Alice · [@Timelovers](https://github.com/Timelovers)**
+
+<br/>
+
+<sub>Tips · 个人主页 README 来自仓库 <code>Timelovers/Timelovers</code>，与 <code>Timelovers.github.io</code>（Pages）不同。</sub>
+
+</div>

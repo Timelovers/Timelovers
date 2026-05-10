@@ -1,9 +1,9 @@
-> 值得去的地方，没有捷径。了解自己，认识世界。把一些从未有过的故事带到这个世界。
-
 <p align="center">
   <!-- 头图：靛紫 → 电光紫 → 淡薰衣草；twinkling 微动效。备选顶栏 type=rounded&color=0:1e1b4b,50:7c3aed,100:ede9fe -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:6d28d9,100:c4b5fd&height=200&section=header&text=Sara%20Alice&fontSize=46&fontColor=fefcff&fontAlignY=32&animation=twinkling" alt="Sara Alice · header" />
 </p>
+
+> 值得去的地方，没有捷径。了解自己，认识世界。把一些从未有过的故事带到这个世界。
 
 <p align="center">
   <b>AI 应用工程师</b> · 用代码连接想法与现实

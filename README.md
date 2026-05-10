@@ -10,6 +10,15 @@
 
 ---
 
+### ✋ 关于我
+
+我做的东西希望被人**第二天还会再打开一次**：可信的工具路由、诚实的交互，而不是一过性的 Demo。  
+难的不止是「接入模型」，而是**信任感**——记忆怎么结构化、漂移时怎么对用户坦诚。
+
+**联系：** ✉️ [2822937768@qq.com](mailto:2822937768@qq.com?subject=GitHub%20你好)
+
+---
+
 ### 🔥 我在做什么
 
 <table>
@@ -35,15 +44,17 @@
 </tr>
 </table>
 
+**想多看一眼：** [作品集站点](https://lijiaxing.com.cn/) · [PromptVault 在线版](https://timelovers.github.io/promptvault/) · [作品集仓库](https://github.com/Timelovers/purple-portfolio-shine-main)
+
 ---
 
 ### 🧭 我的方向
 
 ```
-AI Engineering ──→ 产品化落地 ──→ Web 全栈表达
+AI 工程 ──→ 产品化落地 ──→ Web 全栈表达
 ```
 
-我不只是在用 AI，我在思考 **AI 应该怎么被构建、被使用、被传播**。
+我不只是在用 AI，我在思考 **AI 应该怎么被构建、被使用、被传播**。  
 目前专注：
 
 - 🧠 **AI Agent 系统** — 多智能体协作、工作流编排、工具调用
@@ -60,8 +71,28 @@ AI Engineering ──→ 产品化落地 ──→ Web 全栈表达
 
 ---
 
+### ⚙️ 技术栈（自用）
+
+```
+主力语言    TypeScript · Python · JavaScript · HTML/CSS
+AI / Agent  Claude · LangChain · AutoGen · MCP · Claude Code
+走过的路    微信小程序 · Django · Vue · NLP · 深度学习
+```
+
+---
+
+### 📍 找到我
+
+| 入口 | 链接 |
+|:---|:---|
+| 作品集 | [lijiaxing.com.cn](https://lijiaxing.com.cn/) |
+| GitHub | [@Timelovers](https://github.com/Timelovers) |
+| X | [@cloudbit441506](https://x.com/cloudbit441506) |
+
+---
+
 <p align="center">
-  <i>"值得去的地方，没有捷径。了解自己，认识世界。<br/>把一些从未有过的故事带到这个世界。"</i>
+  <i>值得去的地方，没有捷径。了解自己，认识世界。<br/>把一些从未有过的故事带到这个世界。</i>
 </p>
 
 <p align="center">

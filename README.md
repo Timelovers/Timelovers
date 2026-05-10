@@ -87,3 +87,11 @@ AI / Agent  Claude · LangChain · AutoGen · MCP · Claude Code
 | 作品集 | [lijiaxing.com.cn](https://lijiaxing.com.cn/) |
 | GitHub | [@Timelovers](https://github.com/Timelovers) |
 | X | [@cloudbit441506](https://x.com/cloudbit441506) |
+
+---
+
+<p align="center">
+  <i>所有值得去的地方，都没有捷径。<br/><br/>
+  了解自己，认识世界；看看世界。<br/><br/>
+  把一些从未有过的故事带到这个世界。</i>
+</p>

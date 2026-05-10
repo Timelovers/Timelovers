@@ -22,28 +22,16 @@
 
 ### 🔥 我在做什么
 
-与 GitHub **置顶仓库**一致；下面是自己维护、对外展示的骨干项目。
+Skills / 提示词 / 主页相关——收进一张表，其它实验仓库就不在这儿展开了。
 
-- **[Timelovers.github.io](https://github.com/Timelovers/Timelovers.github.io)** — GitHub Pages 入口：从 2019 小程序写到 2026 的 Agent；承载技能包、面试工具与作品集叙事，**好 prompt 当工程做**。
-- **[purple-portfolio-shine-main](https://github.com/Timelovers/purple-portfolio-shine-main)** — 个人作品集站点：**我是谁、做过什么、怎么想问题**；偏简洁动效与工程细节。
-- **[bookmark-visualizer-skill](https://github.com/Timelovers/bookmark-visualizer-skill)** — Chrome 书签导出 → **单文件**复古 CRT 导航：侧边分类、实时搜索，双击 HTML 即用，无需服务器（MIT）。
-- **[AI-Career-Coaching-Navigator-](https://github.com/Timelovers/AI-Career-Coaching-Navigator-)** — 对话式 Agent：梳理项目经历、**对齐 JD 的简历**、技术面试叙事演练。
-- **[promptvault](https://github.com/Timelovers/promptvault)** — 浏览器内个人提示词库：分类、搜索、收藏与导入导出，默认 **localStorage**；内置 Gemini 辅助改写与版本时间线（React + TS + Vite，可部署 Pages）。
-- **[competitive-analysis-skill](https://github.com/Timelovers/competitive-analysis-skill)** — 竞品分析 Skill：融合商业叙事与 **波特五力** 等框架，多产品输入 → 深度对比与选型建议。
-
-**想多看一眼：** [作品集站点](https://lijiaxing.com.cn/) · [PromptVault 在线版](https://timelovers.github.io/promptvault/)
-
----
-
-### 🔭 正在探索的东西
-
-下面这些**还没放进置顶**或仍在迭代，先当作实验田——例如 **多模型协作问答**：
-
-- **LLM Council** — 多模型协作问答，让不同 LLM「开会」一起解题  
-- **Agency Agents** — 大量可插拔专家角色模板（工程 / 设计 / 营销等场景）  
-- **PunchBeat** — Mannerus 拳击小游戏，[在线体验 🥊](https://punchbeat-3igmmbsf.manus.space)  
-- **oh-my-claudecode** — Claude Code 多智能体编排、团队级协作流  
-- **go-cursor-help** — 围绕 Cursor 使用的小工具与脚本  
+| 图标 | 方向 | 一句话 | 入口 |
+|:---:|:---|:---|:---|
+| 💾 | **PromptVault** | 提示词库 · 可当「提示词向」作品集 | [仓库](https://github.com/Timelovers/promptvault) · [在线](https://timelovers.github.io/promptvault/) |
+| 🔖 | **Bookmark Visualizer Skill** | 书签导出 → 单文件 CRT 导航 | [仓库](https://github.com/Timelovers/bookmark-visualizer-skill) |
+| 📊 | **竞品分析 Skill** | 多产品对比与选型（Claude Skill） | [仓库](https://github.com/Timelovers/competitive-analysis-skill) |
+| 💜 | **个人主页** | 主站 + 源码 + GitHub Pages | [lijiaxing.com.cn](https://lijiaxing.com.cn/) · [purple](https://github.com/Timelovers/purple-portfolio-shine-main) · [Pages](https://timelovers.github.io/) |
+| 🎯 | **JD / 面试叙事** | 对话式梳理经历 · 对齐 JD · 演练表达 | [仓库](https://github.com/Timelovers/AI-Career-Coaching-Navigator-) |
+| 🥊 | **PunchBeat** | Mannerus 拳击小游戏 | [在线玩](https://punchbeat-3igmmbsf.manus.space) |
 
 ---
 

@@ -58,12 +58,12 @@ AI 工程 ──→ 产品化落地 ──→ Web 全栈表达
 
 ---
 
-### ⚙️ 技术栈（自用）
+### ⚙️ 技术栈
 
 ```
-主力语言    TypeScript · Python · JavaScript · HTML/CSS
-AI / Agent  Claude · LangChain · AutoGen · MCP · Claude Code
-走过的路    微信小程序 · Django · Vue · NLP · 深度学习
+语言      TypeScript · JavaScript · Python · HTML · CSS
+前端      React · Vite · Tailwind CSS · React Router
+AI / 集成 MCP · LLM API · Agent 编排（LangChain 等，按项目选用）
 ```
 
 ---

@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:6d28d9,100:c4b5fd&height=200&section=header&text=Sara%20Alice&fontSize=46&fontColor=fefcff&fontAlignY=32&animation=twinkling" alt="Sara Alice · header" />
 </p>
 
-> 值得去的地方，没有捷径。了解自己，认识世界。把一些从未有过的故事带到这个世界。
+> 写代码不是我的工作，是我理解这个世界的方式。五年来，从第一行 `print("hello")` 到构建 AI Agent 系统，我一直在用代码把好奇心变成可运行的东西。
 
 <p align="center">
   <b>AI 应用工程师</b> · 用代码连接想法与现实
@@ -87,9 +87,3 @@ AI / Agent  Claude · LangChain · AutoGen · MCP · Claude Code
 | 作品集 | [lijiaxing.com.cn](https://lijiaxing.com.cn/) |
 | GitHub | [@Timelovers](https://github.com/Timelovers) |
 | X | [@cloudbit441506](https://x.com/cloudbit441506) |
-
----
-
-<p align="center">
-  <sub>写代码不是我的工作，是我理解这个世界的方式。</sub>
-</p>

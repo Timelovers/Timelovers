@@ -1,13 +1,9 @@
-<p align="center">
-  <i>值得去的地方，没有捷径。了解自己，认识世界。<br/>把一些从未有过的故事带到这个世界。</i>
-</p>
+> 值得去的地方，没有捷径。了解自己，认识世界。把一些从未有过的故事带到这个世界。
 
 <p align="center">
   <!-- 头图：靛紫 → 电光紫 → 淡薰衣草；twinkling 微动效。备选顶栏 type=rounded&color=0:1e1b4b,50:7c3aed,100:ede9fe -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:6d28d9,100:c4b5fd&height=200&section=header&text=Sara%20Alice&fontSize=46&fontColor=fefcff&fontAlignY=32&animation=twinkling" alt="Sara Alice · header" />
 </p>
-
-> 写代码不是我的工作，是我理解这个世界的方式。五年来，从第一行 `print("hello")` 到构建 AI Agent 系统，我一直在用代码把好奇心变成可运行的东西。
 
 <p align="center">
   <b>AI 应用工程师</b> · 用代码连接想法与现实
